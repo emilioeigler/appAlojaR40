@@ -19,7 +19,7 @@
       "mail": "consultas@hotelcabovirgenes.com.ar",
       "web": "hotelcabovirgenes.com.ar",
       "estrellas": 0,
-      "tipo": "Hostel",
+      "tipo": "Hotel",
       "imgURL": "https://drive.google.com/uc?export=download&id=1o1of9TvNag56M4Zs6ruS1ucIZ0SemoMC"
     },
     {
@@ -30,7 +30,7 @@
       "mail": "",
       "web": "http://www.hotelsehuen.com",
       "estrellas": 0,
-      "tipo": "Cabana",
+      "tipo": "Hotel",
       "imgURL": "https://drive.google.com/uc?export=download&id=1B_BWNRHo69TwtlPYxdfLawGmMO50dt0T"
     },
     {
@@ -41,7 +41,7 @@
       "mail": "",
       "web": "",
       "estrellas": 0,
-      "tipo": "Casa",
+      "tipo": "Hotel",
       "imgURL": ""
     },
     {
