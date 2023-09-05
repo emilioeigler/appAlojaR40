@@ -2,7 +2,7 @@
   "alojamientos1": [
     {
       "ciudad": "riogallegos",
-      "nombre": "Santa Cruz",
+      "nombre": "Santa Cruz3",
       "direccion": "Av. Pres Néstor C. Kirchner 701 (ex Roca)",
       "telefono": "2966-420601",
       "mail": "info@hotelsantacruzrgl.com.ar",
