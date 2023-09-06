@@ -2,17 +2,6 @@
   "alojamientos1": [
     {
       "ciudad": "riogallegos",
-      "nombre": "el triangulo",
-      "direccion": "Av. Pres Néstor C. Kirchner 701 (ex Roca)",
-      "telefono": "2966-420601",
-      "mail": "info@hotelsantacruzrgl.com.ar",
-      "web": "www.hotelsantacruzrgl.com.ar",
-      "estrellas": 0,
-      "tipo": "Hotel",
-      "imgURL": "https://t2.uc.ltmcdn.com/es/posts/5/9/4/tipos_de_triangulos_nombres_y_caracteristicas_53495_600.jpg"
-    },
-    {
-      "ciudad": "riogallegos",
       "nombre": "Santa Cruz",
       "direccion": "Av. Pres Néstor C. Kirchner 701 (ex Roca)",
       "telefono": "2966-420601",
