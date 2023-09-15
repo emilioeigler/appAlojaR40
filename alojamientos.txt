@@ -7,9 +7,9 @@
       "telefono": "2966-420601",
       "mail": "info@hotelsantacruzrgl.com.ar",
       "web": "www.hotelsantacruzrgl.com.ar",
-      "estrellas": 0,
+      "estrellas": 3,
       "tipo": "Hotel",
-      "imgURL": "https://drive.google.com/uc?export=download&id=1ZflBKgL1tbuZOwiZEX1BcuCe9qQ3CFsN"
+      "imgURL": "https://www.hotelsantacruzrgl.com.ar/assets/galerias/inicio1_m.jpg"
     },
     {
       "ciudad": "riogallegos",
@@ -20,7 +20,7 @@
       "web": "hotelcabovirgenes.com.ar",
       "estrellas": 0,
       "tipo": "Hotel",
-      "imgURL": "https://drive.google.com/uc?export=download&id=1o1of9TvNag56M4Zs6ruS1ucIZ0SemoMC"
+      "imgURL": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/89747616.jpg?k=fb4de2fad9a583fbc5f2846611fe13399fe2c054ee62ff2b4f164911bfa3be41&o=&hp=1"
     },
     {
       "ciudad": "riogallegos",
@@ -31,41 +31,21 @@
       "web": "http://www.hotelsehuen.com",
       "estrellas": 0,
       "tipo": "Hotel",
-      "imgURL": "https://drive.google.com/uc?export=download&id=1B_BWNRHo69TwtlPYxdfLawGmMO50dt0T"
+      "imgURL": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/78648391.jpg?k=1f6133b12a3cbb6c6c14bcd2a166ee24ce5c02e1ac4eab5df699f2d848db64bd&o=&hp=1"
     },
-    {
-      "ciudad": "riogallegos",
-      "nombre": "Covadonga",
-      "direccion": "Av. Roca 1244",
-      "telefono": "2966-420190",
-      "mail": "",
-      "web": "",
-      "estrellas": 0,
-      "tipo": "Hotel",
-      "imgURL": ""
-    },
+
     {
       "ciudad": "riogallegos",
       "nombre": "Aire de Patagonia",
       "direccion": "Velez Sarsfield 58",
-      "telefono": "2966-444950",
+      "telefono": "2966-573996",
       "mail": "",
       "web": "",
       "estrellas": 3,
       "tipo": "Hotel",
-      "imgURL": ""
+      "imgURL": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/78431529.jpg?k=39c97f218e175b6cefea972f253da495beba6f9764b99466aba135a4d52101bb&o=&hp=1"
     },
-    {
-      "ciudad": "riogallegos",
-      "nombre": "Croacia",
-      "direccion": "Urquiza 431",
-      "telefono": "2966-422997",
-      "mail": "",
-      "web": "",
-      "estrellas": 0,
-      "tipo": "Hotel",
-      "imgURL": ""
-    },
+
     {
       "ciudad": "riogallegos",
       "nombre": "Los Navegantes",
@@ -75,7 +55,7 @@
       "web": "",
       "estrellas": 0,
       "tipo": "Hotel",
-      "imgURL": ""
+      "imgURL": "https://lh3.googleusercontent.com/p/AF1QipOI8Rjb6ieeEXrdpgC_ijLgjAmlizikOjqYfjC9=s1600-w1000"
     },
     {
       "ciudad": "riogallegos",
@@ -86,7 +66,7 @@
       "web": "",
       "estrellas": 0,
       "tipo": "Hotel",
-      "imgURL": ""
+      "imgURL": "https://hosteria-la-posada.hotelesenpatagonia.com/data/Images/OriginalPhoto/4171/417170/417170964/image-rio-gallegos-hosteria-la-posada-4.JPEG"
     },
     {
       "ciudad": "riogallegos",
@@ -97,7 +77,7 @@
       "web": "",
       "estrellas": 0,
       "tipo": "Hotel",
-      "imgURL": ""
+      "imgURL": "https://laopinionaustral.com.ar/media/uploads/2021/05/hotel-el-colonial-1.webp"
     },
     {
       "ciudad": "riogallegos",
@@ -108,7 +88,7 @@
       "web": "",
       "estrellas": 4,
       "tipo": "Hotel",
-      "imgURL": ""
+      "imgURL": "https://cf.bstatic.com/xdata/images/hotel/max500/44721616.jpg?k=efd8d718f15fe5696b5eb40adf8629089f902775b05a26476c87f548e3e49b4f&o=&hp=1"
     },
     {
       "ciudad": "riogallegos",
@@ -119,7 +99,7 @@
       "web": "",
       "estrellas": 0,
       "tipo": "Hotel",
-      "imgURL": ""
+      "imgURL": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/20788300.jpg?k=22c6ee123db43874b101852c98de3d5f57e827f2573c214566b74f8db9211729&o=&hp=1"
     },
     {
       "ciudad": "riogallegos",
@@ -130,18 +110,18 @@
       "web": "",
       "estrellas": 0,
       "tipo": "Hotel",
-      "imgURL": ""
+      "imgURL": "https://comercio.hotelesenpatagonia.com/data/Images/OriginalPhoto/10982/1098228/1098228306/image-rio-gallegos-hotel-comercio-16.JPEG"
     },
     {
       "ciudad": "riogallegos",
       "nombre": "Hospedaje Elcira",
       "direccion": "Pje. Zucarino 431",
       "telefono": "2966-429856",
-      "mail": "",
+      "mail": "elcirahostel@gmail.com",
       "web": "",
       "estrellas": 0,
       "tipo": "Hostel",
-      "imgURL": ""
+      "imgURL": "https://media-cdn.tripadvisor.com/media/photo-s/06/3c/4f/57/hotel-comercio.jpg"
     },
     {
       "ciudad": "riogallegos",
@@ -152,7 +132,7 @@
       "web": "",
       "estrellas": 0,
       "tipo": "Hotel",
-      "imgURL": ""
+      "imgURL": "https://imgcy.trivago.com/c_fill,d_dummy.jpeg,e_sharpen,f_auto,h_248,q_auto,w_481/itemimages/94/83/9483752.jpeg"
     },
     {
       "ciudad": "riogallegos",
@@ -163,7 +143,7 @@
       "web": "",
       "estrellas": 0,
       "tipo": "Hotel",
-      "imgURL": ""
+      "imgURL": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/285595472.jpg?k=912c852a77f0523e048faece06996905e1bf8c6edfdb155313ac7caf88487d3b&o=&hp=1"
     },
     {
       "ciudad": "riogallegos",
@@ -174,18 +154,7 @@
       "web": "",
       "estrellas": 2,
       "tipo": "Hotel",
-      "imgURL": ""
-    },
-    {
-      "ciudad": "riogallegos",
-      "nombre": "Bonifacio",
-      "direccion": "Rivadavia 457",
-      "telefono": "2966-434316",
-      "mail": "",
-      "web": "",
-      "estrellas": 1,
-      "tipo": "Hotel",
-      "imgURL": ""
+      "imgURL": "https://lh3.googleusercontent.com/p/AF1QipNSdXfClRhxW2K34ahsNMDcP24LNIv6cRcJNI2Q=w768-h768-n-o-v1"
     },
     {
       "ciudad": "riogallegos",
@@ -196,18 +165,51 @@
       "web": "",
       "estrellas": 0,
       "tipo": "Hotel",
-      "imgURL": ""
+      "imgURL": "https://viapais.com.ar/resizer/U9Sn_-zYScq-19pX0xRk_X1xhLA=/980x640/smart/filters:quality(75):format(webp)/cloudfront-us-east-1.images.arcpublishing.com/grupoclarin/GYZWMYJTMI4TMYLDHAYDSNJUMY.jpg"
     },
     {
       "ciudad": "riogallegos",
-      "nombre": "Sindicatos Empelados de Comercio",
-      "direccion": "Avenida Asturias 35 ",
-      "telefono": "2966 - 442830",
+      "nombre": "Amérian Río Gallegos Apart & Suites",
+      "direccion": "Av. José de San Martín 673",
+      "telefono": "2966 42-3412"
+      "mail": "",
+      "web": "https://www.amerian.com/hotel/Amerian-Rio-Gallegos-Apart-Suites",
+      "estrellas": 0,
+      "tipo": "Hotel",
+      "imgURL": "https://images.pxsol.com/2898/company/library/user/211752224456cedbcca4f2edfe68c9c867bac53e8da.jpg?auto=format&browser=Google%20Bot&ixlib=php-3.3.1&w=1200&s=7bed64b77aeaad399939732027fc2076"
+    },
+    {
+      "ciudad": "riogallegos",
+      "nombre": "Liporaci",
+      "direccion": "Av. Lisandro de la Torre 255",
+      "telefono": "2966 421937"
       "mail": "",
       "web": "",
       "estrellas": 0,
       "tipo": "Hotel",
-      "imgURL": ""
+      "imgURL": "https://liporaci.hotelesenpatagonia.com/data/Images/OriginalPhoto/6492/649231/649231338/image-rio-gallegos-hotel-liporaci-6.JPEG"
+    },
+    {
+      "ciudad": "riogallegos",
+      "nombre": "Oviedo",
+      "direccion": "Libertad 746",
+      "telefono": "2966-420118"
+      "mail": "",
+      "web": "http://www.hoteloviedo.com.ar/hotel.html",
+      "estrellas": 0,
+      "tipo": "Hotel",
+      "imgURL": "https://hotel-viaje.com/wp-content/uploads/Hotel-Aire-de-Patagonia-Rio-Gallegos-900x370."
+    },
+    {
+      "ciudad": "riogallegos",
+      "nombre": "Laguna Azul",
+      "direccion": "Estrada 298",
+      "telefono": "02966 15-53-1697"
+      "mail": "",
+      "web": "",
+      "estrellas": 2,
+      "tipo": "Hotel",
+      "imgURL": "https://z.cdrst.com/foto/hotel-sf/e5139/granderesp/laguna-azul-habitacion-ca24183.jpg"
     },
     {
       "ciudad": "riogallegos",
@@ -218,7 +220,18 @@
       "web": "",
       "estrellas": 0,
       "tipo": "Camping",
-      "imgURL": ""
+      "imgURL": "https://cdn.myportfolio.com/3385a685-b000-4f91-a9db-d6ab30949a0b/5b9b2ebf-0c96-4ede-8ad3-020f1b441ccc_rw_1920.jpg?h=e4f425865bbd39f8f89d0e25f5fac5f5"
+    },
+    {
+      "ciudad": "riogallegos",
+      "nombre": "Complejo Sindicatos Empleados De Comercio",
+      "direccion": "Avenida Asturias 35",
+      "telefono": "02966 442830 ",
+      "mail": "",
+      "web": "https://sec-santacruz.com.ar/",
+      "estrellas": 0,
+      "tipo": "Camping",
+      "imgURL": "https://sec-santacruz.com.ar/wp-content/uploads/2019/12/11.jpg"
     },
     {
       "ciudad": "28denoviembre",
