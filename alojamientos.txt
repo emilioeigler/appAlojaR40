@@ -45,7 +45,6 @@
       "tipo": "Hotel",
       "imgURL": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/78431529.jpg?k=39c97f218e175b6cefea972f253da495beba6f9764b99466aba135a4d52101bb&o=&hp=1"
     },
-
     {
       "ciudad": "riogallegos",
       "nombre": "Los Navegantes",
@@ -105,7 +104,7 @@
       "ciudad": "riogallegos",
       "nombre": "Comercio",
       "direccion": "Av. Roca 1302",
-      "telefono": "02966 - 42-0209 / 42-2782",
+      "telefono": "02966 - 42-0209",
       "mail": "",
       "web": "",
       "estrellas": 0,
@@ -129,10 +128,10 @@
       "direccion": "Federico Sphur 55",
       "telefono": "2966-422743",
       "mail": "",
-      "web": "",
+      "web": "https://hotelpa.wixsite.com/hotelpuntaarenas",
       "estrellas": 0,
       "tipo": "Hotel",
-      "imgURL": "https://imgcy.trivago.com/c_fill,d_dummy.jpeg,e_sharpen,f_auto,h_248,q_auto,w_481/itemimages/94/83/9483752.jpeg"
+      "imgURL": "https://static.wixstatic.com/media/f4c320_1daf4cb318284b23a4b5a4947cdbda53~mv2_d_2882_1880_s_2.jpg/v1/fill/w_250,h_163,al_c,q_90,enc_auto/f4c320_1daf4cb318284b23a4b5a4947cdbda53~mv2_d_2882_1880_s_2.jpg"
     },
     {
       "ciudad": "riogallegos",
@@ -193,7 +192,7 @@
       "ciudad": "riogallegos",
       "nombre": "Oviedo",
       "direccion": "Libertad 746",
-      "telefono": "2966-420118"
+      "telefono": "2966-420118",
       "mail": "",
       "web": "http://www.hoteloviedo.com.ar/hotel.html",
       "estrellas": 0,
