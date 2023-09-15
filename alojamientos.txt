@@ -69,17 +69,6 @@
     },
     {
       "ciudad": "riogallegos",
-      "nombre": "Colonial I",
-      "direccion": "Urquiza y Rivadavia",
-      "telefono": "2966-420020",
-      "mail": "",
-      "web": "",
-      "estrellas": 0,
-      "tipo": "Hotel",
-      "imgURL": "https://laopinionaustral.com.ar/media/uploads/2021/05/hotel-el-colonial-1.webp"
-    },
-    {
-      "ciudad": "riogallegos",
       "nombre": "Patagonia",
       "direccion": "Fagnano 54",
       "telefono": "2966-444969",
@@ -168,14 +157,14 @@
     },
     {
       "ciudad": "riogallegos",
-      "nombre": "Amérian Río Gallegos Apart & Suites",
+      "nombre": "Amerian Río Gallegos Apart & Suites",
       "direccion": "Av. José de San Martín 673",
       "telefono": "2966 42-3412",
       "mail": "",
       "web": "https://www.amerian.com/hotel/Amerian-Rio-Gallegos-Apart-Suites",
       "estrellas": 0,
       "tipo": "Hotel",
-      "imgURL": "https://images.pxsol.com/2898/company/library/user/211752224456cedbcca4f2edfe68c9c867bac53e8da.jpg?auto=format&browser=Google%20Bot&ixlib=php-3.3.1&w=1200&s=7bed64b77aeaad399939732027fc2076"
+      "imgURL": "https://www.amerian.com/admin/imgHabitaciones/RutaImag-en1tk.jpg"
     },
     {
       "ciudad": "riogallegos",
